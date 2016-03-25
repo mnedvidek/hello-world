@@ -1,2 +1,2 @@
 # hello-world
-this is a test for first github  repository
+this is the feature branch of my first github  repository
